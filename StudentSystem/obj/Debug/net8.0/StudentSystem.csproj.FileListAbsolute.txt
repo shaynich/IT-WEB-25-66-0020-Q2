@@ -260,3 +260,4 @@ E:\Business\Certificate in Web Design & Development\Final Project\IT-WEB-25-66-0
 E:\Business\Certificate in Web Design & Development\Final Project\IT-WEB-25-66-0020-Q2\StudentSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 E:\Business\Certificate in Web Design & Development\Final Project\IT-WEB-25-66-0020-Q2\StudentSystem\obj\Debug\net8.0\StudentSystem.csproj.AssemblyReference.cache
 E:\Business\Certificate in Web Design & Development\Final Project\IT-WEB-25-66-0020-Q2\StudentSystem\obj\Debug\net8.0\StudentS.B9635AA5.Up2Date
+E:\Business\Certificate in Web Design & Development\Final Project\IT-WEB-25-66-0020-Q2\StudentSystem\obj\Debug\net8.0\StudentSystem.sourcelink.json

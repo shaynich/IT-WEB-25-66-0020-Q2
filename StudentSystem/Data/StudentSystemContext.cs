@@ -15,5 +15,6 @@ namespace StudentSystem.Data
         }
 
         public DbSet<StudentSystem.Models.Course> Course { get; set; } = default!;
+        public DbSet<StudentSystem.Models.Student> Student { get; set; } = default!;
     }
 }
